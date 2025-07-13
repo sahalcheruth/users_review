@@ -1,13 +1,8 @@
+git commit -m "🛍️ Build full-featured Product Review System using Django
 
-🛍️ Product Review System (Django)
-A full-featured Django-based web application that allows users to browse products, register/login, submit reviews with star ratings, and view aggregated feedback. Built with Django, Bootstrap 5, and Django REST Framework.
-
-Features
---------------------
-User registration, login, and logout
-Product listing and detail pages
-Submit and display star-based product reviews
-Average rating & total reviews for each product
-Lazy-loaded product images
-Bootstrap 5 responsive UI with hover effects and custom background
-REST API with nested product-review endpoints using DRF
+- Added user registration, login, and logout
+- Created product list and detail views with Bootstrap 5
+- Implemented star-based review system with average rating
+- Built REST API using Django REST Framework with nested endpoints
+- Added responsive UI, hover effects, and lazy-loaded images
+"
