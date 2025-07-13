@@ -1,4 +1,4 @@
-git commit -m "🛍️ Build full-featured Product Review System using Django
+🛍️ Build full-featured Product Review System using Django
 
 - Added user registration, login, and logout
 - Created product list and detail views with Bootstrap 5
