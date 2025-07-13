@@ -5,4 +5,5 @@
 - Implemented star-based review system with average rating
 - Built REST API using Django REST Framework with nested endpoints
 - Added responsive UI, hover effects, and lazy-loaded images
-"
+
+[Live Demo](http://pfactorial7001.pythonanywhere.com)
